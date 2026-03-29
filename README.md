@@ -72,7 +72,9 @@ body {
 </div>
 
 <script>
-const message = "Hey Varshini... I have something to tell you 💖\n\nWill you be my Valentine? 🥺";
+const message = "Hey Varshini... I have something to tell you 💖
+
+Will you be my Valentine? 🥺";
 let i = 0;
 
 const textElement = document.getElementById("text");
