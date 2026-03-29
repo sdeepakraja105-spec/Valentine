@@ -157,7 +157,7 @@ yesBtn.addEventListener("click", () => {
             <h1>Yayyyy Varshini!!! 💖😍</h1>
             <p>You just made me the happiest person ever 🥹</p>
             <h2>I love you ❤️</h2>
-            <img src=""C:\VIRAT KOHLI WALLPAPER\WhatsApp Image 2026-03-29 at 13.27.17.jpeg"">
+            <img src="https://raw.githubusercontent.com/sdeepakraja105-spec/Valentine/main/me_she.jpg">
         </div>
     `;
 
