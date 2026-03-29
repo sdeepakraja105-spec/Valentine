@@ -104,6 +104,8 @@ noBtn.addEventListener("mouseover", () => {
 
     noBtn.style.left = x + "px";
     noBtn.style.top = y + "px";
+    noBtn.style.transition = "0.2s";
+    noBtn.style.position = "absolute";
 });
 
 // YES CLICK (🔥 MAIN MAGIC)
